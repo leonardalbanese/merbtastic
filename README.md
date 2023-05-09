@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Bounding Box to OBB conversion (#7572)
