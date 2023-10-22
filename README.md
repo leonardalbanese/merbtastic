@@ -1,1 +1,1 @@
-fix predict with class filter
+Compress docs images (#8124)
