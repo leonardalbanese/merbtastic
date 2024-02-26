@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
