@@ -1,1 +1,1 @@
-added badges (#45)
+Fix ONNX GPU inference bug (#6840)
